@@ -2,7 +2,10 @@
 
 Pulse is a browser-based focus and sleep audio tool tuned for open-ear and bone-conduction headphones.
 
-Live demo: [pulse-public.vercel.app](https://pulse-public.vercel.app)
+Live demos:
+
+- GitHub Pages: [h3cz.github.io/pulse](https://h3cz.github.io/pulse/)
+- Vercel: [pulse-public.vercel.app](https://pulse-public.vercel.app)
 
 It uses the Web Audio API to generate an ambient synth pad or process your own local audio file, then applies amplitude modulation and an optional bone-conduction EQ curve. The goal is simple: keep the open-ear headphones on, stay reachable, and still get focus audio that feels full enough to use.
 

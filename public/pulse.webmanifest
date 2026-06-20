@@ -2,14 +2,14 @@
   "name": "Pulse — focus & calm",
   "short_name": "Pulse",
   "description": "Focus & calm audio tuned for open-ear and bone-conduction headphones.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#09090F",
   "theme_color": "#09090F",
   "orientation": "portrait",
   "categories": ["productivity", "lifestyle", "music"],
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]
 }
